@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515368656147.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD650BAC",
+    "lastKnownWriteTime" : 4913272596113391622,
+    "last_content_update" : 1515368656147,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "10358818",
+        "caption" : "DT",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DT&cache_key=10358818",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "object" : "DT",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "8"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
