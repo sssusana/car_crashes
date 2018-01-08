@@ -1,9 +1,0 @@
-Type,BeltedFrontalNoAirB,BeltedFrontalAirB,BeltedNotFroNoAirB,BeltedNotFroAirB,NoneFroNoAirB,NoneFroAirB,NoneNotFroNoAirB,NoneNotFroAirB
-AliveFDriver,2039,2225,2178,539,702,499,459,127
-AliveFPass,759,471,789,137,430,161,227,42
-AliveMDriver,2829,2206,2056,478,1632,835,731,175
-AliveMPass,533,317,445,72,507,139,253,45
-DeadFDriver,43,22,72,25,43,34,42,22
-DeadFPass,16,8,43,19,30,11,29,5
-DeadMDriver,57,36,77,31,157,72,111,47
-DeadMPass,12,6,26,7,23,12,31,11
