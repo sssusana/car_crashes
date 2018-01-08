@@ -3,6 +3,8 @@ Airbag And Other Influences On Accident Fatalities
 
 US data, for 1997-2002, from police-reported car crashes in which there is a harmful event (people or property), and from which at least one vehicle was towed. Data are restricted to front-seat occupants.
 
+--
+
 Variables:
 dead:factor with levels alive dead
 airbag: a factor with levels none airbag
@@ -11,7 +13,9 @@ frontal: a numeric vector; 0 = non-frontal, 1=frontal impact
 sex: a factor with levels f m
 occRole
 a factor with levels driver pass
+
 --
+
 not used:
 injSeverity
 a numeric vector; 0:none, 1:possible injury, 2:no incapacity, 3:incapacity, 4:killed; 5:unknown, 6:prior death
